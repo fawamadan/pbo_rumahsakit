@@ -19,7 +19,6 @@ namespace rugas_rumahsakit
             foreach (var orang in daftarorang)
             {
                 orang.infoorang();
-                orang.aktivitas();
             }
         }
     }

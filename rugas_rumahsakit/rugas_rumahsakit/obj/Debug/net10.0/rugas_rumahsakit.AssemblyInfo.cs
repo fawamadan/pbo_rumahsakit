@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rugas_rumahsakit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+636b624acf2b8fa5abce1624797298a3739a2c65")]
 [assembly: System.Reflection.AssemblyProductAttribute("rugas_rumahsakit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rugas_rumahsakit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

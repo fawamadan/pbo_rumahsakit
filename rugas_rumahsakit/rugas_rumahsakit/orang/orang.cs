@@ -16,7 +16,7 @@ namespace rugas_rumahsakit
         {
             Console.WriteLine($"{nama} sedang berobat");
         }
-        public void infoorang()
+        public virtual void infoorang()
         {
             Console.WriteLine($"nama : {nama}, umur :{umur}");
         }

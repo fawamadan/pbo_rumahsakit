@@ -4,7 +4,7 @@ using System.Text;
 
 namespace rugas_rumahsakit
 {
-    internal class dokter : tenagamedis
+    public class dokter : tenagamedis
     {
         public dokter(string nama, int umur, string spesialis) : base(nama, umur,spesialis)
         { }
@@ -17,6 +17,11 @@ namespace rugas_rumahsakit
         public override void aktivitas()
         {
             Console.WriteLine($"dr.{nama} sedang makan");
+        }
+
+        public override void infoorang()
+        {
+            Console.WriteLine($"nama : {nama}, umur : {umur}, spesialis : {spesialis}");
         }
     }
 }
