@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\bin\Debug\net10.0\rugas_rumahsakit.exe
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\bin\Debug\net10.0\rugas_rumahsakit.deps.json
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\bin\Debug\net10.0\rugas_rumahsakit.runtimeconfig.json
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\bin\Debug\net10.0\rugas_rumahsakit.dll
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\bin\Debug\net10.0\rugas_rumahsakit.pdb
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\rugas_rumahsakit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\rugas_rumahsakit.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\rugas_rumahsakit.AssemblyInfo.cs
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\rugas_rumahsakit.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\rugas_rumahsakit.dll
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\refint\rugas_rumahsakit.dll
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\rugas_rumahsakit.pdb
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\rugas_rumahsakit.genruntimeconfig.cache
+C:\Users\USER\source\repos\rugas_rumahsakit\rugas_rumahsakit\obj\Debug\net10.0\ref\rugas_rumahsakit.dll
